@@ -4,7 +4,7 @@ Ataque de negación de servicio. Antes de usar esta herramienta primero debes de
 
 # Nota
 
-Esta herramienta es sólo como aprender para los ataques DOS & DDOS recuerden que sí, ddos son sólo una pequeña parte y muy pequeño del mundo de la piratería, así que no se sientan orgullosos si sólo pueden ddos doang
+Esta herramienta es para sólo como aprender los ataques DDOS recuerden que, ddos son sólo una pequeña parte y muy pequeño del mundo de la piratería, así que no se sientan orgullosos si sólo pueden realizar ddos doang
 
 ¡¡Recordar!! NO REALICE ATAQUES DOS/DDOS SIN USAR REDES WIFI!!!!
 
