@@ -26,11 +26,11 @@ $ ls
 
 $ python2 Attaks-Ddos.py <ip> <port> <packet>
 
-# Ejemplo:
+__Ejemplo:__
 
 python2 Attaks-Ddos.py 122.14.229.8 80 500
 
-# Informatic in Termux
+__Informatic in Termux__
 
 https://t.me/Informatic_in_Termux_1
 
@@ -38,4 +38,4 @@ Esta herramienta es solo con fines educativos e informativos, el mal uso es resp
 
 # EL CONOCIMIENTO ES LIBRE.
 
-# By: Scorpio28
+__By: Scorpio28__
