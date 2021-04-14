@@ -10,21 +10,21 @@ Esta herramienta es para sólo aprender los ataques DDOS recuerden que, ddos son
 
 # 🦂 INTALACIÓN 🦂
 
-$ pkg update && pkg upgrade -y
+* pkg update && pkg upgrade -y
 
-$ pkg install python2 -y
+* pkg install python2 -y
 
-$ pkg install git -y
+* pkg install git -y
 
-$ git clone https://github.com/Scorpio28-Oficial/Attaks-Ddos
+* git clone https://github.com/Scorpio28-Oficial/Attaks-Ddos
 
-$ ls
+* ls
 
-$ cd Attaks-Ddos
+* cd Attaks-Ddos
 
-$ ls
+* ls
 
-$ python2 Attaks-Ddos.py <ip> <port> <packet>
+* python2 Attaks-Ddos.py <ip> <port> <packet>
 
 __Ejemplo:__
 
