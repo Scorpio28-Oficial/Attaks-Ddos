@@ -28,7 +28,7 @@ Esta herramienta es para sólo aprender los ataques DDOS recuerden que, ddos son
 
 __Ejemplo:__
 
-python2 Attaks-Ddos.py 122.14.229.8 80 500
+* python2 Attaks-Ddos.py 122.14.229.8 80 500
 
 __Informatic in Termux__
 
