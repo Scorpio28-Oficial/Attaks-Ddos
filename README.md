@@ -32,7 +32,7 @@ python2 Attaks-Ddos.py 122.14.229.8 80 500
 
 __Informatic in Termux__
 
-https://t.me/Informatic_in_Termux_1
+https://t.me/Informatic_in_Termux
 
 Esta herramienta es solo con fines educativos e informativos, el mal uso es responsabilidad de quien la utilize.
 
