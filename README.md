@@ -1,7 +1,4 @@
 ##### Attaks-Ddos
-<p align="center">
- <img src="https://i.imgur.com/iqSKkvC.jpg" width="600px">
-</p>
 
 Ataque de negación de servicio. Antes de usar esta herramienta primero debes de encontrar la dirección IP de la víctima y escanear dónde está abierto el puerto
 
